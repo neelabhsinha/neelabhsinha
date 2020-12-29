@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Neelabh Sinha, an aspiring software developer and artificial intelligence enginner born and brought up in Patna, Bihar, India. 
 <!--
 **neelabhsinha/neelabhsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
