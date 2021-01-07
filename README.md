@@ -23,7 +23,7 @@ Currently, I am working with Stars Research Team of Inria Labs, Sophia Antipolis
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=44b0fc)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=44b0fc)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Framework-Spring-Boot-informational?style=flat&logo=Spring&logoColor=white&color=44b0fc)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=44b0fc)
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=JavaScript&logoColor=white&color=44b0fc)
 ![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=44b0fc)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=44b0fc)
