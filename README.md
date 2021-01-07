@@ -32,7 +32,7 @@ Currently, I am working with Stars Research Team of Inria Labs, Sophia Antipolis
 ![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=44b0fc)
 ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=44b0fc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhsinha)](https://github.com/neelabhsinha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhsinha)](https://github.com/anuraghazra/github-readme-stats)
 ---
 You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Happy Coding!
 
