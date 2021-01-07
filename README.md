@@ -8,8 +8,8 @@ I am Neelabh Sinha, an aspiring software developer and artificial intelligence e
 ---
 Currently, I am working with Stars Research Team of Inria Labs, Sophia Antipolis Cedex, France for research on the topic 'Activity Recognition using Spatiotemporal Features'. I recently completed my internship at Thomson Reuters, Hyderabad, where I worked on projects involved Full-stack web development and Time-series forecasting. Some of my recent repositories featured are - 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=Multiplayer-Tambola-Game-using-Multithreading)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=Food-Dishes-Classification-using-Deep-Learning)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=Multiplayer-Tambola-Game-using-Multithreading)](https://github.com/anuraghazra/neelabhsinha/Multiplayer-Tambola-Game-using-Multithreading)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=Food-Dishes-Classification-using-Deep-Learning)](https://github.com/neelabhsinha/Food-Dishes-Classification-using-Deep-Learning)
 
 
 <!--
@@ -32,7 +32,7 @@ Currently, I am working with Stars Research Team of Inria Labs, Sophia Antipolis
 ![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=44b0fc)
 ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=44b0fc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhsinha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhsinha)](https://github.com/neelabhsinha/github-readme-stats)
 ---
 You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Happy Coding!
 
