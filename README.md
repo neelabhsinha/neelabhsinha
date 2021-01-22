@@ -2,6 +2,9 @@
 ---
 I am Neelabh Sinha, an aspiring software developer and artificial intelligence enginner born and brought up in Patna, Bihar, India. I love to work on technologies involving Back-end Development, Full-stack Development and also in the field of AI with projects involving Machine Learning, Computer Vision, Natural Language Processing, etc. Looking forward to work with some great developers and enginners on exciting projects in various domains, and learn new things.
 
+For complete details about me, visit my website https://neelabhsinha.github.io
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=neelabhsinha&show_icons=true" />
 
 ### Recent Work
