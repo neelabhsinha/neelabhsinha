@@ -7,14 +7,6 @@ For complete details about me, visit my website https://neelabhsinha.github.io
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=neelabhsinha&show_icons=true" />
 
-### Recent Work
----
-Currently, I am working as a Software Engineer at Wells Fargo. Some of my featured repositories are - 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=Multiplayer-Tambola-Game-using-Multithreading)](https://github.com/anuraghazra/neelabhsinha/Multiplayer-Tambola-Game-using-Multithreading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=Food-Dishes-Classification-using-Deep-Learning)](https://github.com/neelabhsinha/Food-Dishes-Classification-using-Deep-Learning)
-
-
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
