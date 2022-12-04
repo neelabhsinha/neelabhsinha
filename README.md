@@ -9,7 +9,7 @@ For complete details about me, visit my website https://neelabhsinha.github.io
 
 ### Recent Work
 ---
-Currently, I am working with Stars Research Team of Inria Labs, Sophia Antipolis Cedex, France for research on the topic 'Activity Recognition using Spatiotemporal Features'. I recently completed my internship at Thomson Reuters, Hyderabad, where I worked on projects involved Full-stack web development and Time-series forecasting. Some of my recent repositories featured are - 
+Currently, I am working as a Software Engineer at Wells Fargo. Some of my featured repositories are - 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=Multiplayer-Tambola-Game-using-Multithreading)](https://github.com/anuraghazra/neelabhsinha/Multiplayer-Tambola-Game-using-Multithreading)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=Food-Dishes-Classification-using-Deep-Learning)](https://github.com/neelabhsinha/Food-Dishes-Classification-using-Deep-Learning)
