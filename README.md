@@ -1,42 +1,39 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, this is Neelabh!
 ---
-I am Neelabh Sinha, an aspiring software developer and artificial intelligence enginner born and brought up in Patna, Bihar, India. I love to work on technologies involving Back-end Development, Full-stack Development and also in the field of AI with projects involving Machine Learning, Computer Vision, Natural Language Processing, etc. Looking forward to work with some great developers and enginners on exciting projects in various domains, and learn new things.
+I am an MS, Computer Science student at Georgia Institute of Technology, expected to graduate in Spring 2025.
 
-For complete details about me, visit my website https://neelabhsinha.github.io
+- 🌐 Want to know more? Visit my [personal website](https://neelabhsinha.github.io).
 
+<p align="left">
+<img src="https://img.shields.io/github/stars/neelabhsinha?label=Stars" alt="stars">
+<img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
+<img src="https://komarev.com/ghpvc/?username=neelabhsinha&color=brightgreen" alt="watching_count" />
+<a href="https://www.linkedin.com/in/neelabh-sinha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelabhsinha&show_icons=true" />
-
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neelabhsinha&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
-### Technologies & Tech-Stack
 ---
-![](https://img.shields.io/badge/Lang-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=JavaScript&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Library-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Library-Scikit-Learn-informational?style=flat&logo=Scikit&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=44b0fc)
-![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=44b0fc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhsinha)](https://github.com/anuraghazra/github-readme-stats)
+### Some Stats About my Profile!
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelabhsinha&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=neelabhsinha&theme=dark&hide_border=true" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neelabhsinha&&hide_progress=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neelabhsinha&theme=juicyfresh&no-bg=true" />
+</p>
+
 ---
-You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Happy Coding!
 
-<!-- Icons -->
+### Didn't find it interesting? Here is a Joke!
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/chillichicken_
-[2]: https://www.linkedin.com/in/neelabh-sinha/
+<p align="center">
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
