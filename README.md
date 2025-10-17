@@ -1,8 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, this is Neelabh!
 ---
-I am an MS, Computer Science student at Georgia Institute of Technology, expected to graduate in Spring 2025.
 
-- 🌐 Want to know more? Visit my [personal website](https://neelabhsinha.github.io).
+- 🌐 Visit my [personal website](https://neelabhsinha.github.io).
 
 <p align="left">
 <img src="https://img.shields.io/github/stars/neelabhsinha?label=Stars" alt="stars">
